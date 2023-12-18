@@ -1,0 +1,98 @@
+[
+    {
+        "office_type": "Stomatologiczny",
+        "floor": 3
+    },
+    {
+        "office_type": "Kardiologiczny",
+        "floor": 2
+    },
+    {
+        "office_type": "Gabinet medycyny rodzinnej",
+        "floor": 0
+    },
+    {
+        "office_type": "Pediatryczny",
+        "floor": 0
+    },
+    {
+        "office_type": "Ortopetyczny",
+        "floor": 2
+    },
+    {
+        "office_type": "Dermatologiczny",
+        "floor": 3
+    },
+    {
+        "office_type": "Okulistyczny",
+        "floor": 1
+    },
+    {
+        "office_type": "Neurologiczny",
+        "floor": 3
+    },
+    {
+        "office_type": "Gabinet medycyny rodzinnej",
+        "floor": 2
+    },
+    {
+        "office_type": "Ginekologiczny",
+        "floor": 0
+    },
+    {
+        "office_type": "Urologiczny",
+        "floor": 2
+    },
+    {
+        "office_type": "Pediatryczny",
+        "floor": 1
+    },
+    {
+        "office_type": "Endokrynologiczny",
+        "floor": 0
+    },
+    {
+        "office_type": "Psychologiczny",
+        "floor": 1
+    },
+    {
+        "office_type": "Reumatologiczny",
+        "floor": 0
+    },
+    {
+        "office_type": "Pulmonologiczny",
+        "floor": 2
+    },
+    {
+        "office_type": "Laryngologiczny",
+        "floor": 0
+    },
+    {
+        "office_type": "Gabinet medycyny rodzinnej",
+        "floor": 1
+    },
+    {
+        "office_type": "Pediatryczny",
+        "floor": 2
+    },
+    {
+        "office_type": "Diabetologiczny",
+        "floor": 3
+    },
+    {
+        "office_type": "Gabinet medycyny pracy",
+        "floor": 2
+    },
+    {
+        "office_type": "Nefrologiczny",
+        "floor": 3
+    },
+    {
+        "office_type": "Onkologiczny",
+        "floor": 1
+    },
+    {
+        "office_type": "Chirurgiczny",
+        "floor": 3
+    }
+]
