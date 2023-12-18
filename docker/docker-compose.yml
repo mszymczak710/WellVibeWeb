@@ -20,3 +20,13 @@ services:
       - .env
     depends_on:
       - db
+  web:
+    build: 
+      context: ../WellVibeWebUI/
+      dockerfile: Dockerfile
+    ports:
+      - "4200:4200"
+    volumes:
+      - ../WellVibeWebUI:/code/
+    depends_on:
+      - api
